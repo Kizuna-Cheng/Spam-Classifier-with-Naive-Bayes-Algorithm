@@ -28,4 +28,3 @@ This project has been broken down in to the following steps:
 - Step 5: Naive Bayes implementation using scikit-learn
 - Step 6: Evaluating our model
 - Step 7: Conclusion
-- 
